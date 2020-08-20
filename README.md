@@ -1,5 +1,7 @@
 # Kariyer.net Data Scraping and Analysis
 
+Since 1999, Turkey's largest employment platform that Kariyer.net, job search and with new generation technologies in the recruitment process, job seekers with employers coming together on the Internet. There are more than 25 million resumes in Kariyer.net's candidate database. They published some informations about 1597 professions like salary, job advertisements, needed skills etc in Turkey recently.
+
 Firstly scraping data from Kariyer.net website with BeautifulSoup. Then make data more pretty and understable and readable plots.
 Plotly library has been used for visualization so some plots don't show because of github.
 
